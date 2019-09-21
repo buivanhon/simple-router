@@ -1,0 +1,18 @@
+{
+    "name": "starter/router",
+    "description": "Small structure to organise our codes.",
+    "type": "skeleton",
+    "authors": [
+        {
+            "name": "Hon BUI",
+            "email": "buivanhon@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["controllers", "core"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
